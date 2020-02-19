@@ -1,6 +1,8 @@
 # UrlHaus
 Python code to download Malware Samples from UrlHaus Website
 
+'https://urlhaus.abuse.ch/downloads/csv/'
+
 Recommended Steps :
 
 
